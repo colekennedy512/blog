@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+
+    <!-- Link to the Pico CSS file -->
+    <link rel="stylesheet" type="text/css" href="pico.min.css">
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="art.html">Art Gallery</a></li>
+                <li><a href="socials.html">Art Gallery</a></li>
+                <!-- Add more navigation links as needed -->
+            </ul>
+        </nav>
+    </div>
+    
+    <!-- Main Content Container -->
+    <div class="container">
+        <!-- Your content goes here -->
+        <h1>Welcome to My Website</h1>
+        <p>Finance, code, and whatever else pops up!</p>
+
+        <!-- You can include more HTML elements and structure based on your needs -->
+    </div>
+
+</body>
+
+</html>
